@@ -14,6 +14,7 @@ I'm an open source software engineer working on building software that makes oth
 1. I'm a member of [*The Live Coders*](https://livecoders.dev).
 
 ## Get in touch
-Twitter: https://twitter.com/TrezyCodes
-Personal site: https://trezy.com/
-Instagram that I never post to: https://instagram.com/TrezyCodes
+
+* Twitter: https://twitter.com/TrezyCodes
+* Personal site: https://trezy.com/
+* Instagram that I never post to: https://instagram.com/TrezyCodes
