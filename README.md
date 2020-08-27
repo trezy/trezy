@@ -1,16 +1,19 @@
-### Hi there 👋
+# Trezy
 
-<!--
-**trezy/trezy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm Trezy (he/him)! 👋🏻 I was born in Texas, grew up in Kentucky, and moved to Wisconsin around 2009. I enjoy nerding out about Universal Basic Income, robots/automation, and Rocket League. 🚀🚗
 
-Here are some ideas to get you started:
+I'm an open source software engineer working on building software that makes other developers' lives easier. I've worked on some pretty big projects, like [NES.css](https://nostalgic-css.github.io/NES.css/) and [Backbone.Marionette](https://marionettejs.com/). Currently I'm working on...
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* [`fdgt`](https://fdgt.dev) — A staging API for building things on Twitch
+* [B-Frame](https://github.com/b-frame/) — A framework for building Node.js chat bots
+
+## Fun facts
+
+1. I'm on [IMDb](https://www.imdb.com/name/nm5442490/).
+1. I used to be a professional drummer.
+1. I'm a member of [*The Live Coders*](https://livecoders.dev).
+
+## Get in touch
+Twitter: https://twitter.com/TrezyCodes
+Personal site: https://trezy.com/
+Instagram that I never post to: https://instagram.com/TrezyCodes
