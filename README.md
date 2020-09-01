@@ -4,8 +4,10 @@ Hi, I'm Trezy (he/him)! 👋🏻 I was born in Texas, grew up in Kentucky, and m
 
 I'm an open source software engineer working on building software that makes other developers' lives easier. I've worked on some pretty big projects, like [NES.css](https://nostalgic-css.github.io/NES.css/) and [Backbone.Marionette](https://marionettejs.com/). Currently I'm working on...
 
-* [`fdgt`](https://fdgt.dev) — A staging API for building things on Twitch
-* [B-Frame](https://github.com/b-frame/) — A framework for building Node.js chat bots
+| Project | Description |
+| - | - |
+| [`fdgt`](https://fdgt.dev) | A staging API for building things on Twitch |
+| [B-Frame](https://github.com/b-frame/) | A framework for building Node.js chat bots |
 
 ## Fun facts
 
