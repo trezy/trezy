@@ -17,6 +17,7 @@ I'm an open source software engineer working on building software that makes oth
 
 ## Get in touch
 
+* Twitch: https://twitch.tv/TrezyCodes
 * Twitter: https://twitter.com/TrezyCodes
 * Personal site: https://trezy.com/
 * Instagram that I never post to: https://instagram.com/TrezyCodes
