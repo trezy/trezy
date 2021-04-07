@@ -15,7 +15,6 @@ I'm an open source software engineer working on building software that makes oth
 
 1. I'm on [IMDb](https://www.imdb.com/name/nm5442490/).
 1. I used to be a professional drummer.
-1. I'm a member of [*The Live Coders*](https://livecoders.dev).
 
 ## Get in touch
 
