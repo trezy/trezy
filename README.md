@@ -6,19 +6,30 @@ I'm an open source software engineer working on building software that makes oth
 
 | Project | Description |
 | - | - |
-| [`next-safe`](https://github.com/trezy/next-safe) | A library for adding secure headers to your Next.js app |
-| [`react-color-mode`](https://github.com/trezy/react-color-mode) | A library for adding support for dark/light mode to your React.js app |
-| [`fdgt`](https://fdgt.dev) | A staging API for building things on Twitch |
-| [B-Frame](https://github.com/b-frame/) | A framework for building Node.js chat bots |
+| [`pixi-react`](https://github.com/pixijs/pixi-react) | React.js bindings for [PixiJS](https://pixijs.com) |
+| [`pentaract`](https://github.com/gamesgamesgamesgamesgames/pentaract) | A platform for managing video games on [ATProto](https://atproto.com), enabling data sovereignty for both players and developers. |
+| [`lexicon`](https://github.com/gamesgamesgamesgamesgames/lexicon) | An open data standard for describing video games and their data on [ATProto](https://atproto.com). |
+
+<details>
+<summary>Past projects</summary>
+
+| Project | Description | Status |
+| - | - | - |
+| [`next-safe`](https://github.com/trezy/next-safe) | A library for adding secure headers to your Next.js app | Archived |
+| [`react-color-mode`](https://github.com/trezy/react-color-mode) | A library for adding support for dark/light mode to your React.js app | Archived |
+| [`fdgt`](https://fdgt.dev) | A dev API for building things on Twitch | Live |
+| [B-Frame](https://github.com/b-frame/) | A framework for building Node.js chat bots | Unfinished |
+
+</details>
 
 ## Fun facts
 
-1. I'm on [IMDb](https://www.imdb.com/name/nm5442490/).
-1. I used to be a professional drummer.
+1. Trezy is a nickname, but it's also on my birth certificate.
+1. I've dabbled in indie filmmaking — I'm on [IMDb](https://www.imdb.com/name/nm5442490/).
+1. I was formerly a professional drummer.
 
 ## Get in touch
 
-* Twitch: https://twitch.tv/TrezyCodes
-* Twitter: https://twitter.com/TrezyCodes
-* Personal site: https://trezy.com/
+* Bluesky: https://bsky.app/profile/trezy.codes
+* Personal site: https://trezy.codes
 * Instagram that I never post to: https://instagram.com/TrezyCodes
