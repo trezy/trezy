@@ -7,7 +7,7 @@ I'm an open source software engineer working on building software that makes oth
 | Project | Description |
 | - | - |
 | [Cartridge](https://cartridge.dev) | A games discovery platform for gamers and studios, built on atproto. |
-| [The Pentaract](https://gamesgamesgamesgames.games) | The data layer for games data on the oepn social web, enabling data sovereignty for both players and developers (runs on HappyView). |
+| [Pentaract](https://gamesgamesgamesgames.games) | The data layer for games data on the open social web, enabling data sovereignty for both players and developers (runs on HappyView). |
 | [HappyView](https://happyview.dev) | Batteries-included [AppView](https://atproto.com/guides/glossary#app-view) software for building applications on atproto. |
 
 <details>
